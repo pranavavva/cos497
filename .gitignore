@@ -195,3 +195,4 @@ lightning_logs/
 plots/
 final/
 *.cache*
+*.zip
