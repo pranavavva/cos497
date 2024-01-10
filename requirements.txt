@@ -41,7 +41,7 @@ frozendict==2.3.10
 frozenlist==1.4.0
 fsspec==2023.12.1
 gitdb==4.0.11
-GitPython==3.1.40
+GitPython==3.1.41
 google-auth==2.25.0
 google-auth-oauthlib==1.1.0
 grpcio==1.59.3
